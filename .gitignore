@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local Dataset (jika path absolut atau data mentah)
+# Anda bisa hapus baris di bawah jika dataset hasil split (face_dataset_split) 
+# ingin disertakan di repo.
+face_dataset_split/*
+
+# Model besar (lebih baik ditaruh di Releases)
+Models/*.pth
+
+# File sensitif
+local_settings.py
+db.sqlite3
+*.log

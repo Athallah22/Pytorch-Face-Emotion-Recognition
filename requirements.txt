@@ -1,0 +1,12 @@
+# Core
+torch
+torchvision
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+opencv-python
+
+# Model Backbone
+facenet-pytorch
