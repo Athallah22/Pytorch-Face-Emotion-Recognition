@@ -4,7 +4,7 @@ Proyek ini adalah sistem deteksi emosi wajah *real-time* yang dibangun menggunak
 
 Tujuan utama proyek ini adalah membangun model yang *robust* dengan mengimplementasikan teknik-teknik *deep learning* modern seperti *data augmentation*, *Focal Loss*, dan strategi *learning rate* yang canggih untuk mencapai akurasi tinggi pada dataset yang tidak seimbang.
 
-![Final Evaluation Metrics](Eval-Result\per_class_metrics.jpg)
+![Final Evaluation Metrics](Eval-Result/per_class_metrics.jpg)
 *Contoh visualisasi metrik evaluasi per kelas yang dihasilkan oleh skrip training.*
 
 ---
